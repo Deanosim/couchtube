@@ -1,0 +1,19 @@
+{
+  "channels": [
+    {
+      "name": "Yogscast",
+      "videos": [
+        {
+          "id": "yGtxgQ-gqX0",
+          "sectionStart": 0,
+          "sectionEnd": 1601
+        },
+        {
+          "id": "qXcS1mQn_VY",
+          "sectionStart": 0,
+          "sectionEnd": 1649
+        }
+      ]
+    }
+  ]
+}
